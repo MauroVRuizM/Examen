@@ -1,0 +1,11 @@
+C:\Users\USER\Desktop\Programas Mauro\RepositorioTemporal\Examen\BEUExamen\bin\Debug\BEUExamen.dll.config
+C:\Users\USER\Desktop\Programas Mauro\RepositorioTemporal\Examen\BEUExamen\bin\Debug\BEUExamen.dll
+C:\Users\USER\Desktop\Programas Mauro\RepositorioTemporal\Examen\BEUExamen\bin\Debug\BEUExamen.pdb
+C:\Users\USER\Desktop\Programas Mauro\RepositorioTemporal\Examen\BEUExamen\bin\Debug\EntityFramework.dll
+C:\Users\USER\Desktop\Programas Mauro\RepositorioTemporal\Examen\BEUExamen\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\USER\Desktop\Programas Mauro\RepositorioTemporal\Examen\BEUExamen\bin\Debug\EntityFramework.xml
+C:\Users\USER\Desktop\Programas Mauro\RepositorioTemporal\Examen\BEUExamen\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\USER\Desktop\Programas Mauro\RepositorioTemporal\Examen\BEUExamen\obj\Debug\BEUExamen.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Programas Mauro\RepositorioTemporal\Examen\BEUExamen\obj\Debug\BEUExamen.csproj.CopyComplete
+C:\Users\USER\Desktop\Programas Mauro\RepositorioTemporal\Examen\BEUExamen\obj\Debug\BEUExamen.dll
+C:\Users\USER\Desktop\Programas Mauro\RepositorioTemporal\Examen\BEUExamen\obj\Debug\BEUExamen.pdb
